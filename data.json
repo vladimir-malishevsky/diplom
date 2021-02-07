@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Eugen",
+        "surname": "Barholenko",
+        "treatment_session": [
+            {
+                "startSession": "2020-12-08T00:00:00Z",
+                "mainIll": "Benign and innocent cardiac murmurs",
+                "doctor": "Skyratovskyi",
+                "comorbidity": [
+                    {
+                        "nameIll": "Nonspecific low blood-pressure reading"
+                    }
+                ],
+                "stage_of_treatment": [
+                    {
+                        "stageName": "Stage1",
+                        "startStage": "2020-12-09T00:00:00Z",
+                        "surgery": [
+                            {
+                                "DateIntervention": "2020-12-11T00:00:00Z",
+                                "nameInterven": "Repair of other abdominal vein by interposition graft",
+                                "sur_med_staff": [
+                                    {
+                                        "medStaff": "Skyratovskyi"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pharmacotherapy": [
+                            {
+                                "namePill": "Levocarnitine",
+                                "dosePill": 200.0,
+                                "unitPill": "mg",
+                                "datePill": "2020-12-09T00:00:00Z"
+                            },
+                            {
+                                "namePill": "Levocarnitine",
+                                "dosePill": 250.0,
+                                "unitPill": "mg",
+                                "datePill": "2020-12-10T00:00:00Z"
+                            }
+                        ],
+                        "physiotherapy": [],
+                        "electro_ultrasound_therapy": [],
+                        "state": [
+                            {
+                                "state_on": "Stage1",
+                                "laboratory_test": [
+                                    {
+                                        "nameTest": "Histologic dosage of tissue preparation of myocardium",
+                                        "valueTest": 69.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T01:37:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    },
+                                    {
+                                        "nameTest": "Histological examination of the drug endocardial tissue",
+                                        "valueTest": 62.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T18:43:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    }
+                                ],
+                                "measurement": [
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 120.6,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-28T07:49:00Z",
+                                        "medStaff": "Skyratovskyi"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 110.66,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-29T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 112.59,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-30T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    }
+                                ],
+                                "image": []
+                            },
+                          {
+                                "state_on": "Stage222",
+                                "laboratory_test": [
+                                    {
+                                        "nameTest": "Histologic dosage of tissue preparation of myocardium",
+                                        "valueTest": 69.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T01:37:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    },
+                                    {
+                                        "nameTest": "Histological examination of the drug endocardial tissue",
+                                        "valueTest": 62.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T18:43:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    }
+                                ],
+                                "measurement": [
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 120.6,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-28T07:49:00Z",
+                                        "medStaff": "Skyratovskyi"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 110.66,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-29T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 112.59,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-30T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    }
+                                ],
+                                "image": []
+                            }
+                        ],
+                        "endStage": "2020-12-19T00:00:00Z"
+                    }
+                ],
+                "endSession": "2021-01-20T00:00:00Z"
+            }
+        ]
+    },
+    {
+        "name": "Eugen",
+        "surname": "Barholenko",
+        "treatment_session": [
+            {
+                "startSession": "2020-12-08T00:00:00Z",
+                "mainIll": "Benign and innocent cardiac murmurs",
+                "doctor": "Skyratovskyi",
+                "comorbidity": [
+                    {
+                        "nameIll": "Nonspecific low blood-pressure reading"
+                    }
+                ],
+                "stage_of_treatment": [
+                    {
+                        "stageName": "Stage1",
+                        "startStage": "2020-12-09T00:00:00Z",
+                        "surgery": [
+                            {
+                                "DateIntervention": "2020-12-11T00:00:00Z",
+                                "nameInterven": "Repair of other abdominal vein by interposition graft",
+                                "sur_med_staff": [
+                                    {
+                                        "medStaff": "Skyratovskyi"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pharmacotherapy": [
+                            {
+                                "namePill": "Levocarnitine",
+                                "dosePill": 200.0,
+                                "unitPill": "mg",
+                                "datePill": "2020-12-09T00:00:00Z"
+                            },
+                            {
+                                "namePill": "Levocarnitine",
+                                "dosePill": 250.0,
+                                "unitPill": "mg",
+                                "datePill": "2020-12-10T00:00:00Z"
+                            }
+                        ],
+                        "physiotherapy": [],
+                        "electro_ultrasound_therapy": [],
+                        "state": [
+                            {
+                                "state_on": "Stage1",
+                                "laboratory_test": [
+                                    {
+                                        "nameTest": "Histologic dosage of tissue preparation of myocardium",
+                                        "valueTest": 69.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T01:37:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    },
+                                    {
+                                        "nameTest": "Histological examination of the drug endocardial tissue",
+                                        "valueTest": 62.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T18:43:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    }
+                                ],
+                                "measurement": [
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 120.6,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-28T07:49:00Z",
+                                        "medStaff": "Skyratovskyi"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 110.66,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-29T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 112.59,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-30T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    }
+                                ],
+                                "image": []
+                            },
+                          {
+                                "state_on": "Stage222",
+                                "laboratory_test": [
+                                    {
+                                        "nameTest": "Histologic dosage of tissue preparation of myocardium",
+                                        "valueTest": 69.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T01:37:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    },
+                                    {
+                                        "nameTest": "Histological examination of the drug endocardial tissue",
+                                        "valueTest": 62.0,
+                                        "unitTest": "mm",
+                                        "dateTest": "2020-12-30T18:43:00Z",
+                                        "laboratoryName": "Dila",
+                                        "lab_staff": []
+                                    }
+                                ],
+                                "measurement": [
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 120.6,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-28T07:49:00Z",
+                                        "medStaff": "Skyratovskyi"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 110.66,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-29T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    },
+                                    {
+                                        "nameMeasurement": "blood pressure",
+                                        "valueMeasurement": 112.59,
+                                        "unitMeasurement": "mm Hg",
+                                        "dateMeasurement": "2020-12-30T09:50:00Z",
+                                        "medStaff": "Samoiduk"
+                                    }
+                                ],
+                                "image": []
+                            }
+                        ],
+                        "endStage": "2020-12-19T00:00:00Z"
+                    }
+                ],
+                "endSession": "2021-01-20T00:00:00Z"
+            }
+        ]
+    }
+]
